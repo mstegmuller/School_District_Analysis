@@ -8,5 +8,12 @@ Overview of school district analysis
 Results
 -The results of the analysis after removing the fraudulent scores from the Freshman did change, but not drastically.  You will be able to see in the snippets that the scores changed by less than a percentage.  The passing percentage for the math and reading for Thomas High were similar throughout even with out those scores.  The analysis shows that even with the 9th grade scores removed the overall passing percentage remained relatively the same.  
 
+Before 
+![School district analysis before](https://user-images.githubusercontent.com/92127589/141246173-9d52b632-1b83-41b6-95c3-97ce240ad490.PNG)
+
+After
+
+![School district analysis after](https://user-images.githubusercontent.com/92127589/141246197-dd9dbb95-e20a-41e9-9217-c5b1d039dbf3.PNG)
+
 Summary
 The four changes to the school district analysis after reading and math scores have been replaced are the total student, the number of students counted the average math and reading scores and the overall percentages at Thomas High School.  The decreased students lead to the change in average math and reading scores and passing percentage.  However, the changes proved to be minimal from the first analysis and the analysis with the replaced data.     
